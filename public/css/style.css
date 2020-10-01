@@ -20,7 +20,6 @@ html{
     min-height: 70px;
     display: flex;
     align-items: center;
-
 }
 
 .item:last-child {
